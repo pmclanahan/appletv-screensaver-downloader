@@ -4,6 +4,12 @@ Download AppleTV screensaver videos
 Get a local copy of those [sweet aerial videos](https://www.apple.com/tv/experience/#ig4) for use with the
 [save hollywood screensaver](http://s.sudre.free.fr/Software/SaveHollywood/about.html) or the like.
 
+Prereqs
+-------
+
+- Python 2.7 (comes preinstalled on OSX)
+- [virtualenv](http://virtualenv.readthedocs.org/en/latest/)
+
 Installation & Use
 ------------------
 
